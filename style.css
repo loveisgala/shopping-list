@@ -3,6 +3,16 @@
     font-weight: 100;
 }
 
+.main {
+    margin-top: 5.5rem;
+}
+
+.img {
+    background-image: url(/img/cover.jpg);
+    background-size: cover;
+    height: 22rem;
+}
+
 .btn-light {
     background-color: rgb(223, 223, 223);
     border: transparent;
