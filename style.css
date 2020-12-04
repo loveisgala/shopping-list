@@ -4,13 +4,13 @@
 }
 
 .main {
-    margin-top: 5.5rem;
+    margin-top: 6.5rem;
 }
 
 .img {
-    background-image: url(/img/cover.jpg);
+    background-color: #BBB0A3;
     background-size: cover;
-    height: 22rem;
+    height: 30rem;
 }
 
 .btn-light {
@@ -26,4 +26,14 @@
 .btn-info:hover {
     background-color: #d3c7b9;
     border: transparent;
+}
+
+#nosotros {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img-nosotros {
+    border-radius: 50%;
 }
