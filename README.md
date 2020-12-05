@@ -8,9 +8,9 @@ Product information comes from an array of objects in a separate file.<br>
 <br>
 The theme is a store that sells decorative items. The design is light-colored, fully responsive, mostly done with Bootstrap.
 <br>
+<br>
 https://shopping-list.loveisgala.vercel.app/<br>
 <br>
-
 ## Technologies
 Created with:
 * HTML5
